@@ -105,7 +105,7 @@ section:last-of-type{border-bottom:none;}
 .section-title{font-size:1.6rem; margin-bottom:28px;}
 
 /* Hero */
-#profile{padding-top:64px;}
+#profile{padding-top:36px;}
 .hero{
   display:flex;
   gap:36px;
@@ -252,5 +252,5 @@ footer .foot-name{
   .nav-links{gap:14px;}
   .hero{flex-direction:column; align-items:flex-start; text-align:left;}
   .skills-grid, .contact-grid{grid-template-columns:1fr;}
-  section{padding:40px 0;}
+  section{padding:26px 0;}
 }
